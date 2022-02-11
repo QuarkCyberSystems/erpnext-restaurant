@@ -117,7 +117,7 @@
    "fieldname": "restaurant",
    "fieldtype": "Link",
    "label": "Restaurant",
-   "options": "Restaurant"
+   "options": "Company"
   },
   {
    "fetch_from": "room.restaurant",
@@ -151,7 +151,7 @@
  ],
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2021-07-14 19:22:28.039068",
+ "modified": "2022-01-20 02:23:23.186658",
  "modified_by": "Administrator",
  "module": "Restaurant Management",
  "name": "Restaurant Object",
